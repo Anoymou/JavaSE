@@ -1,5 +1,8 @@
 package com.itheima.homework.game;
 
+import lombok.Data;
+
+@Data
 public class Thief  extends Character{
 
     private String stealth;
@@ -10,14 +13,6 @@ public class Thief  extends Character{
     public Thief(String name, int level, double healthPoints, double manaPoints,String stealth) {
         super(name, level, healthPoints, manaPoints);
         this.stealth =stealth;
-    }
-
-    public String getStealth() {
-        return stealth;
-    }
-
-    public void setStealth(String stealth) {
-        this.stealth = stealth;
     }
 
     public void sneak(){

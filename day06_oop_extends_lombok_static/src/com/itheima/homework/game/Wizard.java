@@ -1,5 +1,8 @@
 package com.itheima.homework.game;
 
+import lombok.Data;
+
+@Data
 public class Wizard extends Character {
 
     private String spell;
@@ -10,14 +13,6 @@ public class Wizard extends Character {
     public Wizard(String name, int level, double healthPoints, double manaPoints,String spell) {
         super(name, level, healthPoints, manaPoints);
         this.spell =spell;
-    }
-
-    public String getSpell() {
-        return spell;
-    }
-
-    public void setSpell(String spell) {
-        this.spell = spell;
     }
 
     public void cast(){

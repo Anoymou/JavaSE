@@ -1,5 +1,8 @@
 package com.itheima.homework.game;
 
+import lombok.Data;
+
+@Data
 public class Warrior extends Character {
 
     private String weapon;
@@ -9,14 +12,6 @@ public class Warrior extends Character {
 
     public Warrior(String name, int level, double healthPoints, double manaPoints,String weapon) {
         super(name, level, healthPoints, manaPoints);
-        this.weapon = weapon;
-    }
-
-    public String getWeapon() {
-        return weapon;
-    }
-
-    public void setWeapon(String weapon) {
         this.weapon = weapon;
     }
 

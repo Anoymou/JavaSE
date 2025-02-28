@@ -1,13 +1,18 @@
 package com.itheima.homework;
 
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+//@AllArgsConstructor
+@NoArgsConstructor
 public class NewPhone extends OlderPhone{
 
-    public NewPhone() {
+    /*public NewPhone() {
     }
 
     public NewPhone(String brand, double price) {
         super(brand, price);
-    }
+    }*/
 
     @Override
     public void show() {
