@@ -1,4 +1,4 @@
-package com.itheima.homework;
+package com.itheima.homework.d1;
 
 public class Test {
     public static void main(String[] args) {

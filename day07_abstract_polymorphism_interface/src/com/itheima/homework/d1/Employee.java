@@ -1,4 +1,4 @@
-package com.itheima.homework;
+package com.itheima.homework.d1;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -14,5 +14,4 @@ abstract class Employee {
 
     public abstract void work();
     public abstract void eat();
-
 }

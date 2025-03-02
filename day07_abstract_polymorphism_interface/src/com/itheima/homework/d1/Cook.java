@@ -1,13 +1,11 @@
-package com.itheima.homework;
+package com.itheima.homework.d1;
 
-public class Manager extends Employee{
-
-
-    public Manager(String id, String name, double salary) {
+public class Cook extends Employee{
+    public Cook(String id, String name, double salary) {
         super(id, name, salary);
     }
 
-    public Manager() {
+    public Cook() {
     }
 
     @Override
@@ -15,7 +13,7 @@ public class Manager extends Employee{
         System.out.println("工号为："+getId()
                 +"，姓名为："+getName()
                 +"，工资为"+getSalary()
-                +"的经理在工作：管理其他人");
+                +"的厨师在炒菜");
     }
 
     @Override
@@ -23,6 +21,6 @@ public class Manager extends Employee{
         System.out.println("工号为："+getId()
                 +"，姓名为："+getName()
                 +"，工资为"+getSalary()
-                +"的经理在吃鱼");
+                +"的厨师在吃肉");
     }
 }
