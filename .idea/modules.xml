@@ -9,7 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/day04_code/day04_code.iml" filepath="$PROJECT_DIR$/day04_code/day04_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05_oop/day05_oop.iml" filepath="$PROJECT_DIR$/day05_oop/day05_oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06_oop_extends_lombok_static/day06_oop_extends_lombok_static.iml" filepath="$PROJECT_DIR$/day06_oop_extends_lombok_static/day06_oop_extends_lombok_static.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day07_code/day07_code.iml" filepath="$PROJECT_DIR$/day07_code/day07_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_abstract_polymorphism_interface/day07_abstract_polymorphism_interface.iml" filepath="$PROJECT_DIR$/day07_abstract_polymorphism_interface/day07_abstract_polymorphism_interface.iml" />
     </modules>
   </component>
 </project>

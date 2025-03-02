@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lombok-1.18.36 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day07_abstract_polymorphism_interface/lib/lombok-1.18.36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
