@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/day06_oop_extends_lombok_static/day06_oop_extends_lombok_static.iml" filepath="$PROJECT_DIR$/day06_oop_extends_lombok_static/day06_oop_extends_lombok_static.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07_abstract_polymorphism_interface/day07_abstract_polymorphism_interface.iml" filepath="$PROJECT_DIR$/day07_abstract_polymorphism_interface/day07_abstract_polymorphism_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08_oop_lambda/day08_oop_lambda.iml" filepath="$PROJECT_DIR$/day08_oop_lambda/day08_oop_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_oop_string_arraylist/day09_oop_string_arraylist.iml" filepath="$PROJECT_DIR$/day09_oop_string_arraylist/day09_oop_string_arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage_test/stage_test.iml" filepath="$PROJECT_DIR$/stage_test/stage_test.iml" />
     </modules>
   </component>
 </project>
